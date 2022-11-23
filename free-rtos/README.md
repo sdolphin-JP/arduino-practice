@@ -7,7 +7,7 @@
 - OSは、何でも良い。
 - 開発環境は、「[Arduino IDE][def_url_aide]」を使用する。
 
-# 4. 参考資料等
+# 3. 参考資料等
 - [Arduino Uno R3][def_url_aur3]
 
 
